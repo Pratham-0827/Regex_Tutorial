@@ -1,0 +1,26 @@
+[
+    {
+        "pattern": "\\b\\w+\\b",
+        "example": "This is an example string with several words.",
+        "explanation": "This will help in regex buliding and suimulatsasasasasasasasasasasasasasasasasasasadaaaaaaaaion"
+    },
+    {
+        "pattern": "\\b\\w+\\bw",
+        "example": "This is an example string with several words."
+    },
+    {
+        "pattern": "\\b\\w+\\b",
+        "example": "This is an example string with several words.",
+        "explanation": ""
+    },
+    {
+        "pattern": "\\b\\w+\\bw",
+        "example": "This is an example string with several words.",
+        "explanation": ""
+    },
+    {
+        "pattern": "\\b\\w+\\bwsdfgrsedf34",
+        "example": "This is an example string with several words.",
+        "explanation": ""
+    }
+]
